@@ -1,0 +1,4 @@
+Example Code
+
+Code:
+proxy_checker.py proxylist.txt validproxies.txt --threads 500
